@@ -1,0 +1,12 @@
+{
+  "name": "sass2jss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "args": "^5.0.0",
+    "jss-cli": "^5.0.2",
+    "node-sass": "^4.11.0",
+    "prettier": "^1.16.4"
+  }
+}
